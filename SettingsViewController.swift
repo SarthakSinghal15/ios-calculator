@@ -1,6 +1,6 @@
 //
 //  SettingsViewController.swift
-//  tipsy-ios
+//  tipcalc-ios
 //
 //  Created by Sarthak on 12/24/18.
 //  Copyright © 2018 Sarthak. All rights reserved.
